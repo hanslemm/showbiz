@@ -8,6 +8,7 @@ authors = ["Hans Lemm <hans.lemm@neuraum.com>"]
 python = "^3.10"
 Faker = "^13.15.0"
 black = "^22.6.0"
+SQLAlchemy = "^1.4.39"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
